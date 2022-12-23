@@ -4,7 +4,7 @@ name: CI
 
 env:
   resourceGroup: 'AZ-400'
-  kubernetesVersion: '1.19.6'
+  kubernetesVersion: '1.26'
   name: 'interviewprepaks92'
 
 # Controls when the action will run. 
